@@ -1,0 +1,19 @@
+Screen {
+    layout: grid;
+    grid-size: 10 3;
+
+}
+
+.second_row {
+    width: 10%
+}
+
+.third_row {
+    width: 10%;
+}
+
+.fourth_row {
+    width: 10%
+}
+
+
